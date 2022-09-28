@@ -1,0 +1,74 @@
+[
+    {
+        "eater_id" : "1",
+        "foodmenu_id" : "233",
+        "foodname" : "Biryani"
+    },
+    {
+        "eater_id" : "2",
+        "foodmenu_id" : "234",
+        "foodname" : "Burger"
+
+    },
+    {
+        "eater_id" : "3",
+        "foodmenu_id" : "235",
+        "foodname" : "Sandwich"
+    },
+    {
+        "eater_id" : "4",
+        "foodmenu_id" : "236",
+        "foodname" : "Pizza"
+    },
+    {
+        "eater_id" : "1",
+        "foodmenu_id" : "233",
+        "foodname" : "Biryani"
+    },
+    {
+        "eater_id" : "6",
+        "foodmenu_id" : "234",
+        "foodname" : "Burger"
+    },
+    {
+        "eater_id" : "7",
+        "foodmenu_id" : "237",
+        "foodname" : "Coke"
+    },
+    {
+        "eater_id" : "2",
+        "foodmenu_id" : "234",
+        "foodname" : "Pizza"
+    },
+    {
+        "eater_id" : "2",
+        "foodmenu_id" : "238",
+        "foodname" : "Coffee"
+    },
+    {
+        "eater_id" : "3",
+        "foodmenu_id" : "238",
+        "foodname" : "Coffee"
+    },
+    {
+        "eater_id" : "3",
+        "foodmenu_id" : "238",
+        "foodname" : "Coffee"
+    },
+    {
+        "eater_id" : "1",
+        "foodmenu_id" : "236",
+        "foodname" : "Pizza"
+    },
+    {
+        "eater_id" : "9",
+        "foodmenu_id" : "235",
+        "foodname" : "Sandwich"
+    },
+    {
+        "eater_id" : "10",
+        "foodmenu_id" : "237",
+        "foodname" : "Coke"
+    }
+   
+]
